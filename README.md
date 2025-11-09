@@ -149,6 +149,21 @@ Watch the interactive dashboard in action to see how the Excel-based analytics s
     });
 </script>
 
+## 🎥 Dashboard Demo
+
+Watch the interactive dashboard in action to see how the Excel-based analytics solution provides real-time insights and dynamic filtering capabilities.
+
+[![Dashboard Demo Video](https://img.shields.io/badge/▶️_Watch_Demo-Dashboard_Walkthrough-blue?style=for-the-badge)](Sample_video.mp4)
+
+<!-- Embedded video for local viewing -->
+<p align="center">
+  <video width="600" controls autoplay muted loop>
+    <source src="https://github.com/RushiPutthewad/coffee-shop-sales-analysis/Sample_video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+
 **Video Contents:**
 - Interactive dashboard navigation
 - Real-time filtering and slicing
