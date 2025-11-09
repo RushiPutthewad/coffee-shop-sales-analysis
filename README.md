@@ -1,5 +1,11 @@
-# Coffee Shop Sales Insights
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c68bb9ae-6fa6-4658-bb91-0bb3a1add825"
+       alt="Coffee Shop Logo"
+       width="250" height="250"
+       style="border-radius: 50%; object-fit: cover;" />
+</p>
 
+<h1 align="center">Coffee Shop Sales Insights</h1>
 A comprehensive data analysis project that leverages Microsoft Excel to analyze coffee shop sales data, providing actionable business insights through data cleaning, exploratory data analysis, and interactive visualizations.
 
 ## 📊 Project Overview
