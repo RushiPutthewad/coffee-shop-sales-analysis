@@ -130,6 +130,34 @@ This project analyzes comprehensive coffee shop transaction data containing 149,
 - **Peak Hours**: Visual identification of high-traffic time periods
 - **Location Insights**: Geographic performance and product mix analysis
 
+## 🎥 Dashboard Demo
+
+Watch the interactive dashboard in action to see how the Excel-based analytics solution provides real-time insights and dynamic filtering capabilities.
+
+[![Dashboard Demo Video](https://img.shields.io/badge/▶️_Watch_Demo-Dashboard_Walkthrough-blue?style=for-the-badge)](Coffee_shop_sales_worksheet%20-%20Excel%202025-11-08%2020-46-16%20(online-video-cutter.com).mp4)
+
+<video width="500" controls autoplay muted loop>
+    <source src="Sample_video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+<script>
+    const video = document.querySelector('video');
+    video.autoplay = true;
+    video.muted = true;
+    video.play().catch(error => {
+        console.error("Error attempting to play video:", error);
+    });
+</script>
+
+**Video Contents:**
+- Interactive dashboard navigation
+- Real-time filtering and slicing
+- Key performance indicators overview
+- Chart interactions and drill-down capabilities
+- Store comparison and trend analysis
+
+*Note: Click the badge above to view the dashboard demonstration video*
+
 ## 🎯 Conclusion
 
 This Excel-based analysis successfully transformed raw coffee shop sales data into actionable business insights. The comprehensive dashboard and detailed metrics provide stakeholders with the tools needed to make data-driven decisions for revenue optimization and customer satisfaction improvement.
