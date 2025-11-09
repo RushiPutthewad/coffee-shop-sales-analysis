@@ -136,33 +136,7 @@ Watch the interactive dashboard in action to see how the Excel-based analytics s
 
 [![Dashboard Demo Video](https://img.shields.io/badge/▶️_Watch_Demo-Dashboard_Walkthrough-blue?style=for-the-badge)](Coffee_shop_sales_worksheet%20-%20Excel%202025-11-08%2020-46-16%20(online-video-cutter.com).mp4)
 
-<video width="500" controls autoplay muted loop>
-    <source src="Sample_video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
-<script>
-    const video = document.querySelector('video');
-    video.autoplay = true;
-    video.muted = true;
-    video.play().catch(error => {
-        console.error("Error attempting to play video:", error);
-    });
-</script>
-
-## 🎥 Dashboard Demo
-
-Watch the interactive dashboard in action to see how the Excel-based analytics solution provides real-time insights and dynamic filtering capabilities.
-
-[![Dashboard Demo Video](https://img.shields.io/badge/▶️_Watch_Demo-Dashboard_Walkthrough-blue?style=for-the-badge)](Sample_video.mp4)
-
-<!-- Embedded video for local viewing -->
-<p align="center">
-  <video width="600" controls autoplay muted loop>
-    <source src="https://github.com/RushiPutthewad/coffee-shop-sales-analysis/Sample_video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
-
+https://github.com/user-attachments/assets/bef6547d-9704-42d0-8889-bbddcca283c4
 
 **Video Contents:**
 - Interactive dashboard navigation
